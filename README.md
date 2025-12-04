@@ -2,7 +2,7 @@
 ## Использование языков программирования ~~Visual studio~~ **Python**, **C#**, **C++** позволяют разрабатывать ПО
 ### Возможность *C#* поражают 
 
-(https://it-course.ru/assets/images/programmist.jpg)
+[крутой человек]!(https://it-course.ru/assets/images/programmist.jpg)
 
 |Имя|Возраст|Статус|
 |---|------|---|
